@@ -22,7 +22,7 @@ def set_background(image_file):
 
 st.set_page_config(page_title="Mortgage Repayments Calculator", page_icon="🏠", layout="centered")
 
-set_background("/Users/aayushlshrestha/Documents/MorCalc/images/ai.webp")
+set_background("/Users/aayushlshrestha/Documents/Projects/MorCalc/images/ai.webp")
 
 st.title("🏠 Mortgage Repayments Calculator")
 st.write("### Calculate your monthly mortgage repayments and view your payment schedule.")
